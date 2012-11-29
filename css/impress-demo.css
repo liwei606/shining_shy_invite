@@ -418,6 +418,26 @@ a:focus {
     font-size: 60px;
 }
 
+#source .tb form {
+    margin: 20px 0 0 0;
+}
+#source .tb .input-append input,
+#source .tb .input-append label {
+    height: 40px;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+}
+#source .tb .btn {
+    margin: 20px 55px 0 0;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+#source .footnote {
+    font-size: 24px;
+}
+
 /*
     And the "it's in 3D" step again brings some 3D typography - just for fun.
     
